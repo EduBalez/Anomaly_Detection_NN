@@ -1,9 +1,10 @@
 # Anomaly_Detection_NN
 
-## Repository for the Computational Intelliegence class
+## Repository for the Computational Intelligence class
 
 Topics:
 - ARIMA
 - ANN
 - RNN
-- LSMTs
+- LSTMs
+- Probability and Feature Engineering
